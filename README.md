@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Agloo7
-- 👀 I’m interested in Full Stack Software Engineering 
-- 🌱 I’m currently learning JavaScript, Nodejs, Reactjs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning JavaScript, Nodejs, Reactjs.
+- 💞️ I’m looking to collaborate on user friendly and responsive web apps.
 - 📫 How to reach me austinagladima@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to Code.
 
 <!---
 Agloo7/Agloo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
